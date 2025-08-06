@@ -10,7 +10,7 @@ The script morse_visualizer.py requires the Python packages [hdtopology](/guides
 Here is an example using the terrain.txt data provided in the data folder:
 
 ```bash
-python3 morse_visualize_args_v2.py --input="terrain.txt" --output="terrain_morse.html"
+python3 morse_visualizer.py --input="terrain.txt" --output="terrain_morse.html"
 ```
 By default edges are calculated using the [Gabriel graph](https://en.wikipedia.org/wiki/Gabriel_graph). To specify edges, include the options "--edges=1 --edges_file="edges.txt"", where "edges.txt" is formatted so that each line includes the vertex indices for a single edge.
 

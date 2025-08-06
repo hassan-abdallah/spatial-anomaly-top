@@ -16,4 +16,4 @@ By default edges are calculated using the [Gabriel graph](https://en.wikipedia.o
 
 ## Output
 <p align="center">
-<img src="./figures/terrain.png" width="250" height="200" />
+<img src="./figures/terrain.png" width="450" height="400" />
